@@ -2,9 +2,10 @@
 Face recognition security software.
 ## How to run the software:
 1. Clone the repository on your local computer
-    a. Open Terminal
-    b. Navigate to the directory where you want to clone the Project
-    c. Type ```git clone git@github.com:leetsyplakov/fofo_project.git``` and hit enter to clone the repository
+   - Open Terminal
+   - Navigate to the directory where you want to clone the Project
+   - Type ```git clone git@github.com:leetsyplakov/fofo_project.git``` and hit enter to clone the repository
+   - Navigate inside projects folder
 2. Install all the required libraries from the requirements.txt file
     - In the same Terminal window type ```pip install -r requirements.txt``` and hit enter
 3. Make sure to connect a web camera to your computer
