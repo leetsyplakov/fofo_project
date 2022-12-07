@@ -11,4 +11,4 @@ Face recognition security software.
 3. Make sure to connect a web camera to your computer
 4. Run the software:
     - In the same Terminal window type ```python3 driver.py``` and hit enter
-5. Navigate to www.pythonenthusiast.com/fofo web page and obtain the QR codes for configuration and management of the software.  
+5. Navigate to https://fofo-project.herokuapp.com/ web page and obtain the QR codes for configuration and management of the software.  
